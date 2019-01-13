@@ -1,0 +1,2 @@
+1.自行安装USBInjectAll.kext到/L/E并修复权限，以使用USB3.1。
+2.运行一次CLOVER安装器并勾选RCScript,模拟NVRam修复睡眠唤醒问题。
